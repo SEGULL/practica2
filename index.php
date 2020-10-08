@@ -9,8 +9,11 @@
 <body>
 	<h1>hola soy seg</h1>
 	<?php 
+			
+
 			echo "hola soy seg";
 	 
+
 
 
 	?>
