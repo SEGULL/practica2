@@ -8,7 +8,12 @@
 </head>
 <body>
 	<h1>hola soy seg</h1>
-	<?php echo "hola soy seg" ?>
+	<?php 
+			echo "hola soy seg";
+	 
+
+
+	?>
 
 </body>
 </html>
